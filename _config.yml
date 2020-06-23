@@ -1,0 +1,31 @@
+theme: jekyll-theme-minimal
+
+
+title: Chris Deshon 
+nickname: Chris
+# description: Jon Phillips Biography and CV.
+email: c@chrisdeshon.com
+
+headshot: /assets/img/headshot.jpg
+
+show_downloads: ["false"]
+show_social: ["true"]
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_url: https://twitter.com/chris_deshon
+instagram_url: https://instagram.com/chris_deshon
+
+
+# permalink: /:year/:month/:day/:title/
+
+
+# Build settings
+#markdown: kramdown
+#theme: minima
+#gems:
+#  - jekyll-feed
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
