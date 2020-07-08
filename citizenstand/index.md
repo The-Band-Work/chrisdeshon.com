@@ -18,7 +18,7 @@ Citizen Stand is a project...
 
 ## The Solution
 
-- Buy one.
+- Buy one. Current Cost: USD $160. <a href="mailto:{{site.email}}?subject=Buy Citizen Stand Now">Buy Now</a>.
 - Make one.
 - Cost down production so may be more easily produced, used.
 - Share your public notes and city council proceedings (maybe we need a site to do this? or use archive.org?)
