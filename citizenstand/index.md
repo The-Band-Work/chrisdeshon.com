@@ -3,6 +3,8 @@ title: Citizen Stand
 permalink: /citizenstand/index.html
 ---
 
+<img src="./qrcode.svg">
+
 ## About Citizen Stand
 
 Citizen Stand is a project...
