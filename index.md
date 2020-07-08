@@ -8,8 +8,13 @@ I work on a farm and have many ideas. This is a listing of some of them.
 
 ### Projects
 
-- Citizen Stand
-- Happy Trails Farm :)
+#### Citizen Stand
+
+A simple way for Citizen's to take a Stand, with a Citizen Stand that can hold your phone and keyboard to make it easy to take notes anywhere, such as city council meetings. <a href="/citizenstand">Read More</a>
+
+#### Happy Trails Farm :)
+
+A farm I help manage and run. Come visit anytime :)
 
 ### Facts
 
