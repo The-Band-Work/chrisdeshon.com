@@ -40,4 +40,4 @@ I have been climbing ropes for the last two years and the stretching has provide
 
 ### Bio
 
-Chris Deshon is an multi-talented anti-disciplinary researcher artist and social entrepreneur. Born in Illinois, he lives and works in Granit City, Illinois on the Happy Trails Farm.
+Chris Deshon is an multi-talented anti-disciplinary researcher artist and social entrepreneur. Born in Granite City, Illinois, he lives and works in Granite City, Illinois on the Happy Trails Farm.
