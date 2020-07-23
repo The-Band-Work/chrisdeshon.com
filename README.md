@@ -1,4 +1,3 @@
 # chrisdeshon.com
 
-- [x] create github
-- [ ] make basic website 
+- Contact me at c@chrisdeshon.com
