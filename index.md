@@ -34,6 +34,10 @@ I have been climbing ropes for the last two years and the stretching has provide
 - Born Granite City, Illinois, USA.
 - Lives &amp; Works in Granite City, Illinois.
 
+### Quote
+
+- Climb Rope to Stay Tall and Strong.
+
 ### Writing
 
 {% include posts.html %}
