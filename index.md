@@ -24,6 +24,8 @@ A farm I help manage and run. Come visit anytime :)
 
 My Grandpa started a business called Madison Lawn Equipment and then changd it purely into a Sawmill. The business was renamed to Madison Equipment. The new iteration of the "Sawmill" is formally called Madison Equipment and Lumber, or MEAL.
 
+See <meal.fyi>
+
 #### Rope Climbing
 
 I have been climbing ropes for the last two years and the stretching has provided amazing health benefits. Also, my height is now 2 inches higher! Talk to me if you want to be taller and build your upper body strength with ropes.
