@@ -12,6 +12,12 @@ I work on a farm and have many ideas. This is a listing of some of them.
 
 A simple way for Citizen's to take a Stand, with a Citizen Stand that can hold your phone and keyboard to make it easy to take notes anywhere, such as city council meetings. <a href="/citizenstand">Read More</a>
 
+#### CPOC
+
+CPOC stands for COMBAT POVERSITY ORGANIZE COMMUNITY. This is my non-profit.
+
+- <a href="https://cpoc.us">cpoc.us<a>
+
 #### Granite City Lab (GCL)
 
 Granite City Lab is Coming. Join our efforts to create a space for a Granite City "Makerspace". The goal of the Granite City Lab (1) Provide a space for businesses to problem solve, and to (2) Provide a space for people to debate ideas freely.
@@ -22,9 +28,9 @@ A farm I help manage and run. Come visit anytime :)
 
 #### Madison Equipment And Lumber (MEAL)
 
-My Grandpa started a business called Madison Lawn Equipment and then changd it purely into a Sawmill. The business was renamed to Madison Equipment. The new iteration of the "Sawmill" is formally called Madison Equipment and Lumber, or MEAL.
+My Grandpa started a business called Madison Lawn Equipment and then changd it purely into a Sawmill. The business was renamed to Madison Equipment. The new iteration of the "Sawmill" is formally called Madison Equipment and Lumber, or MEAL. This is my business.
 
-See <meal.fyi>
+- <a href="https://meal.fyi">meal.fyi<a>
 
 #### Rope Climbing
 
